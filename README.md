@@ -15,7 +15,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/atiffebrianka_?igsh=MW83NGE2ODZpOW5jag==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/latip-latip-7b47b8364?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:latiffebrianka@gmail.com)
 
 
-<img src="https://raw.githubusercontent.com/latiffebriankaa/latiffebriankaa/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/latiffebriankaa/latiffebriankaa/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/latiffebriankaa/latiffebriankaa/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/latiffebriankaa/latiffebriankaa/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
