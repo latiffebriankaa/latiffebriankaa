@@ -1,6 +1,7 @@
 <div style = " text-align: center ">
 <img src ="/gif/tenor.gif" alt = "Header">
 
+
 ---
 #### 💫 About Me:
 🔭 I am an informatics engineering student <br>📚 I am still learning to be a data analyst <br>🤓🤓🤓🤓🤓
