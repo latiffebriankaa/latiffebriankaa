@@ -1,6 +1,6 @@
 <div style = " text-align: center;">
 <img src ="/gif/tenor.gif" alt = "Header">
-
+</div>
 
 ---
 #### 💫 About Me:
@@ -25,7 +25,6 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/latiffebriankaa/count.svg?"  />
-</div>
 </div>
 
 ###
