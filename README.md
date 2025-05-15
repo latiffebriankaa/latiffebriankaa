@@ -1,4 +1,4 @@
-<div style = " text-align: center ">
+<div style = " text-align: center;">
 <img src ="/gif/tenor.gif" alt = "Header">
 
 
